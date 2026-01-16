@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML models & artifacts
+*.h5
+*.pkl
+saved_model/
+logs/
+
+# OS
+.DS_Store
