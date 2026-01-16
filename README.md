@@ -52,7 +52,7 @@ An interactive **Streamlit web application** is used to visualize inputs and dis
 ```bash
 git clone <repository-url>
 cd <project-folder>
-
+```
 ---
 
 ## 👨‍💻 Author & Contact
