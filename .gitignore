@@ -9,9 +9,8 @@ venv/
 .ipynb_checkpoints/
 
 # ML models & artifacts
-*.h5
+
 *.pkl
-saved_model/
 logs/
 
 # OS
